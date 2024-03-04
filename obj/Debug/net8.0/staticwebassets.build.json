@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "h7/YIB3G34Yq3WQXEh9xKNSMYCIEHJmYZtUb9MdOlag=",
+  "Source": "Hayp.Server",
+  "BasePath": "_content/Hayp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "E:\\Proyecto_Grado\\Hayp\\hayp.client\\hayp.client.esproj",
+      "Version": 2,
+      "Source": "hayp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
